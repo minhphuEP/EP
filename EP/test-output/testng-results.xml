@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12508" started-at="2019-09-23T14:18:55Z" finished-at="2019-09-23T14:19:07Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12508" started-at="2019-09-23T14:18:55Z" finished-at="2019-09-23T14:19:07Z">
+      <class name="modifypage">
+        <test-method status="PASS" signature="setup()[pri:0, instance:modifypage@d8355a8]" name="setup" is-config="true" duration-ms="6442" started-at="2019-09-23T21:18:55Z" finished-at="2019-09-23T21:19:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginbyadmin()[pri:0, instance:modifypage@d8355a8]" name="loginbyadmin" duration-ms="6009" started-at="2019-09-23T21:19:01Z" finished-at="2019-09-23T21:19:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginbyadmin -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:modifypage@d8355a8]" name="teardown" is-config="true" duration-ms="1" started-at="2019-09-23T21:19:07Z" finished-at="2019-09-23T21:19:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- modifypage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
